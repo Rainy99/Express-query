@@ -1,0 +1,24 @@
+D:\Visual Studio\C#\项目\Express query\Express query\bin\Debug\Express query.exe.config
+D:\Visual Studio\C#\项目\Express query\Express query\bin\Debug\Express query.exe
+D:\Visual Studio\C#\项目\Express query\Express query\bin\Debug\Express query.pdb
+D:\Visual Studio\C#\项目\Express query\Express query\obj\Debug\Express query.csprojResolveAssemblyReference.cache
+D:\Visual Studio\C#\项目\Express query\Express query\obj\Debug\Express query.exe
+D:\Visual Studio\C#\项目\Express query\Express query\obj\Debug\Express query.pdb
+F:\项目\Express query\Express query\bin\Debug\Express query.exe.config
+F:\项目\Express query\Express query\obj\Debug\Express query.exe
+F:\项目\Express query\Express query\obj\Debug\Express query.pdb
+F:\项目\Express query\Express query\bin\Debug\Express query.exe
+F:\项目\Express query\Express query\bin\Debug\Express query.pdb
+F:\项目\Express query\Express query\obj\Debug\Express query.csprojResolveAssemblyReference.cache
+E:\项目\Express query\Express query\bin\Debug\Express query.exe.config
+E:\项目\Express query\Express query\obj\Debug\Express query.exe
+E:\项目\Express query\Express query\obj\Debug\Express query.pdb
+E:\项目\Express query\Express query\bin\Debug\Express query.exe
+E:\项目\Express query\Express query\bin\Debug\Express query.pdb
+E:\项目\Express query\Express query\obj\Debug\Express query.csprojResolveAssemblyReference.cache
+D:\课程\项目\C#BASE项目\Express query\Express query\bin\Debug\Express query.exe.config
+D:\课程\项目\C#BASE项目\Express query\Express query\obj\Debug\Express query.exe
+D:\课程\项目\C#BASE项目\Express query\Express query\obj\Debug\Express query.pdb
+D:\课程\项目\C#BASE项目\Express query\Express query\bin\Debug\Express query.exe
+D:\课程\项目\C#BASE项目\Express query\Express query\bin\Debug\Express query.pdb
+D:\课程\项目\C#BASE项目\Express query\Express query\obj\Debug\Express query.csprojResolveAssemblyReference.cache
